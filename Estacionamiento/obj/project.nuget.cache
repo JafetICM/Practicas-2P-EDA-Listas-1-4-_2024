@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hwa2lRUYLQY98M3mY8FH/h+B3AXviJMRgc3+nuhX9ga0J9QfjM1/hySHsCzLmD3mV/u0UJapAdMZH96JuXwR4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP Elitebook\\OneDrive - Universidad Tecnológica Metropolitana\\Documentos\\Respaldo\\Estacionamiento\\Estacionamiento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP Elitebook\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HP Elitebook\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HP Elitebook\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HP Elitebook\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
