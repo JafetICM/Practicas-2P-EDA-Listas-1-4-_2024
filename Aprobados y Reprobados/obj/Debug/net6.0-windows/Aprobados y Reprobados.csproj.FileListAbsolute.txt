@@ -1,0 +1,14 @@
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Aprobados y Reprobados\bin\Debug\net6.0-windows\Aprobados y Reprobados.exe
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Aprobados y Reprobados\bin\Debug\net6.0-windows\Aprobados y Reprobados.deps.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Aprobados y Reprobados\bin\Debug\net6.0-windows\Aprobados y Reprobados.runtimeconfig.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Aprobados y Reprobados\bin\Debug\net6.0-windows\Aprobados y Reprobados.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Aprobados y Reprobados\bin\Debug\net6.0-windows\Aprobados y Reprobados.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Aprobados y Reprobados\obj\Debug\net6.0-windows\Aprobados y Reprobados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Aprobados y Reprobados\obj\Debug\net6.0-windows\Aprobados y Reprobados.AssemblyInfoInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Aprobados y Reprobados\obj\Debug\net6.0-windows\Aprobados y Reprobados.AssemblyInfo.cs
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Aprobados y Reprobados\obj\Debug\net6.0-windows\Aprobados y Reprobados.csproj.CoreCompileInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Aprobados y Reprobados\obj\Debug\net6.0-windows\Aprobados y Reprobados.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Aprobados y Reprobados\obj\Debug\net6.0-windows\refint\Aprobados y Reprobados.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Aprobados y Reprobados\obj\Debug\net6.0-windows\Aprobados y Reprobados.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Aprobados y Reprobados\obj\Debug\net6.0-windows\Aprobados y Reprobados.genruntimeconfig.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Aprobados y Reprobados\obj\Debug\net6.0-windows\ref\Aprobados y Reprobados.dll

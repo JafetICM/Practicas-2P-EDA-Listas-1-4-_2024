@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aprobados y Reprobados/1.0.0": {
+        "runtime": {
+          "Aprobados y Reprobados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aprobados y Reprobados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
