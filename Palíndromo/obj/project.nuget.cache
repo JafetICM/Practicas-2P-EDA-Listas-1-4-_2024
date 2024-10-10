@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dwDtP2h9NlnEmaUCeymqjcxdNSaE2T/y9d1R1w8z+VYJ5yvjghhgjxiLImZHX45MipRs0dXJt8FTSP1C12WadA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP Elitebook\\OneDrive - Universidad Tecnológica Metropolitana\\Documentos\\Respaldo\\Palíndromo\\Palíndromo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP Elitebook\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HP Elitebook\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HP Elitebook\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HP Elitebook\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
