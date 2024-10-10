@@ -1,0 +1,14 @@
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Pares e Impares\bin\Debug\net6.0-windows\Pares e Impares.exe
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Pares e Impares\bin\Debug\net6.0-windows\Pares e Impares.deps.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Pares e Impares\bin\Debug\net6.0-windows\Pares e Impares.runtimeconfig.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Pares e Impares\bin\Debug\net6.0-windows\Pares e Impares.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Pares e Impares\bin\Debug\net6.0-windows\Pares e Impares.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Pares e Impares\obj\Debug\net6.0-windows\Pares e Impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Pares e Impares\obj\Debug\net6.0-windows\Pares e Impares.AssemblyInfoInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Pares e Impares\obj\Debug\net6.0-windows\Pares e Impares.AssemblyInfo.cs
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Pares e Impares\obj\Debug\net6.0-windows\Pares e Impares.csproj.CoreCompileInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Pares e Impares\obj\Debug\net6.0-windows\Pares e Impares.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Pares e Impares\obj\Debug\net6.0-windows\refint\Pares e Impares.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Pares e Impares\obj\Debug\net6.0-windows\Pares e Impares.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Pares e Impares\obj\Debug\net6.0-windows\Pares e Impares.genruntimeconfig.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Pares e Impares\obj\Debug\net6.0-windows\ref\Pares e Impares.dll
