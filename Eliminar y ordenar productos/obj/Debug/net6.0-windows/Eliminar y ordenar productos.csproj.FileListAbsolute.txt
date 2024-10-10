@@ -1,0 +1,14 @@
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Eliminar y ordenar productos\bin\Debug\net6.0-windows\Eliminar y ordenar productos.exe
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Eliminar y ordenar productos\bin\Debug\net6.0-windows\Eliminar y ordenar productos.deps.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Eliminar y ordenar productos\bin\Debug\net6.0-windows\Eliminar y ordenar productos.runtimeconfig.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Eliminar y ordenar productos\bin\Debug\net6.0-windows\Eliminar y ordenar productos.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Eliminar y ordenar productos\bin\Debug\net6.0-windows\Eliminar y ordenar productos.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Eliminar y ordenar productos\obj\Debug\net6.0-windows\Eliminar y ordenar productos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Eliminar y ordenar productos\obj\Debug\net6.0-windows\Eliminar y ordenar productos.AssemblyInfoInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Eliminar y ordenar productos\obj\Debug\net6.0-windows\Eliminar y ordenar productos.AssemblyInfo.cs
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Eliminar y ordenar productos\obj\Debug\net6.0-windows\Eliminar y ordenar productos.csproj.CoreCompileInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Eliminar y ordenar productos\obj\Debug\net6.0-windows\Eliminar y ordenar productos.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Eliminar y ordenar productos\obj\Debug\net6.0-windows\refint\Eliminar y ordenar productos.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Eliminar y ordenar productos\obj\Debug\net6.0-windows\Eliminar y ordenar productos.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Eliminar y ordenar productos\obj\Debug\net6.0-windows\Eliminar y ordenar productos.genruntimeconfig.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Eliminar y ordenar productos\obj\Debug\net6.0-windows\ref\Eliminar y ordenar productos.dll
