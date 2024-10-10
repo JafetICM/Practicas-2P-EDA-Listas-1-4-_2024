@@ -1,0 +1,14 @@
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Productos diponibles y no\bin\Debug\net6.0-windows\Productos diponibles y no.exe
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Productos diponibles y no\bin\Debug\net6.0-windows\Productos diponibles y no.deps.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Productos diponibles y no\bin\Debug\net6.0-windows\Productos diponibles y no.runtimeconfig.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Productos diponibles y no\bin\Debug\net6.0-windows\Productos diponibles y no.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Productos diponibles y no\bin\Debug\net6.0-windows\Productos diponibles y no.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Productos diponibles y no\obj\Debug\net6.0-windows\Productos diponibles y no.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Productos diponibles y no\obj\Debug\net6.0-windows\Productos diponibles y no.AssemblyInfoInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Productos diponibles y no\obj\Debug\net6.0-windows\Productos diponibles y no.AssemblyInfo.cs
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Productos diponibles y no\obj\Debug\net6.0-windows\Productos diponibles y no.csproj.CoreCompileInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Productos diponibles y no\obj\Debug\net6.0-windows\Productos diponibles y no.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Productos diponibles y no\obj\Debug\net6.0-windows\refint\Productos diponibles y no.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Productos diponibles y no\obj\Debug\net6.0-windows\Productos diponibles y no.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Productos diponibles y no\obj\Debug\net6.0-windows\Productos diponibles y no.genruntimeconfig.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Productos diponibles y no\obj\Debug\net6.0-windows\ref\Productos diponibles y no.dll

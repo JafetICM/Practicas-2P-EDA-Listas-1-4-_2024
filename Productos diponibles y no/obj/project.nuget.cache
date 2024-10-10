@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AQkaGaGtELY7MudrHZ3JpGE4B7BmEzOPdOZa2FRDcg3XHAIr7Rc6Jk5QYcAeKNXqidDJ4hn1QOfEx62rd8+Htw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP Elitebook\\OneDrive - Universidad Tecnológica Metropolitana\\Documentos\\Respaldo\\Productos diponibles y no\\Productos diponibles y no.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP Elitebook\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HP Elitebook\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HP Elitebook\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HP Elitebook\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
